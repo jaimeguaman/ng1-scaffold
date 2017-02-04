@@ -1,0 +1,10 @@
+{
+  "local": {
+    "ENV": "local",
+    "ADD_PROPS": "HERE"
+  },
+	"production": {
+    "ENV": "prod",
+    "ADD_PROPS": "HERE"
+  }
+}
